@@ -1,0 +1,50 @@
+/*
+* Este arquivo é para um web app para empresas que necessitam de um sistema de chamados para cliente
+*
+*
+* Esta sendo utilizado:
+*   Ciclo de vido;
+*   Estados;
+*   Contextos;
+*   Autenticação de Login;
+*   Uso de banco de dados FireStore; -----
+*   Uso de Stoage para iamgens; ----------
+*   Alertas personalisados;
+*   
+*
+* Arquivos:
+*   Pages:///////
+*     SIGNIN;
+*     SIGNUP;
+*     PROFILE;
+*     NEW CHAMADO;
+*     NEW CUSTOMERS;
+*     DASHBOARD;
+*
+*   Components://///
+*     HEADER;
+*     MODAL;
+*     TITLE;
+*
+*   Routes:///////
+*     INDEX;/
+*     PRIVATES;
+*
+*   Services://///
+*     FIREBASECONFIG;
+*
+*   Context;/////
+*     Utilizado no contexto funções para
+*     criação de login, login de usuarios
+*     Logout de usuario e ciclo de vida
+*     para armazenamento local de informações
+*     do usuario
+*     
+*/
+
+
+
+
+
+
+
